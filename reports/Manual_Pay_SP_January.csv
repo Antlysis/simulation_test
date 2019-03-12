@@ -1,5 +1,0 @@
-"title","amount","payeeId","createAt","status","remark","machineCode","transId"
-"SP-W1","2","yenchi","02/01/2019 23:59:13","FAILED","Machine not online, manual payment cannot be done.","467b712f6f3dd1baad34f7b11b75f7d1","ubfauhNQVcdegPPKIkeCbhXntQReKbsw"
-"SP-W1","2","yenchi","03/01/2019 00:00:50","FAILED","Machine not online, manual payment cannot be done.","467b712f6f3dd1baad34f7b11b75f7d1","IhrjmKrhRChiyxbeDotDdLbSZAFDIPxd"
-"SP-W1","2","otouch_admin","03/01/2019 00:01:22","FAILED","Machine not online, manual payment cannot be done.","467b712f6f3dd1baad34f7b11b75f7d1","dmSoYYDxEbbbbKxwffBzZkbxnbupyfti"
-"SP-W1","5","yenchi","06/01/2019 11:01:39","MANUAL","Test","467b712f6f3dd1baad34f7b11b75f7d1","vktBAAPTPDJxoZpbvWlgORYYxmUAnNMw"
